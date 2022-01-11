@@ -1,0 +1,10 @@
+[q1 , q2 , q2 , q2 , q2 , q2 , q2 , q3 , qA ]
+Accepted!
+[q1 , q2 , q3 , qR ]
+Rejected!
+[q1 , q2 , q2 , q3 , qR ]
+Rejected!
+[q1 , q2 , q2 , q2 , q2 , qR ]
+Rejected!
+[q1 , qR ]
+Rejected!

@@ -1,0 +1,24 @@
+2
+4
+5
+q1 q2 q3 qA qR
+q1
+qA
+qR
+b
+0 1 x y b
+0 1
+q1 0 x R q2
+q1 1 1 R qR
+q1 b b R qR
+q2 1 y R q2
+q2 0 x R q3
+q2 b b R qR
+q3 1 1 R qR
+q3 0 0 R qR
+q3 b b R qA
+0111110
+00110
+0100
+0111
+1
